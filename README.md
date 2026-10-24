@@ -31,6 +31,7 @@ Kirn is a general-purpose programming language created by RK Riad Khan. It combi
 - [Kirn documentation](https://rkriad585.github.io/kirn/)
 - [Pets contribution docs](https://pets-registry.github.io/pets)
 - [Kirsh terminal website](https://kirsh-shell.github.io/)
+- [Stirk AI website](https://stirk-ai.github.io/)
 
 ## Local development
 
